@@ -1,0 +1,13 @@
+#phpContainer{
+    height: 500px;
+}
+.column{
+    height: 490px;
+}
+.fa-times{
+    widows: 40px;
+    height: 40px;
+}
+.todoForm{
+margin:auto;
+}
